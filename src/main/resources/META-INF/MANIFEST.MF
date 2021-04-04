@@ -1,0 +1,5 @@
+Main-Class: dev.carcinogenic.Carcinogenic
+Agent-Class: dev.carcinogenic.Carcinogenic
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true
